@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 production mistake
+=======
+another bad line
+>>>>>>> parent of f4d217a (nad commit)
